@@ -1,2 +1,2 @@
 # MultiplicacionDeMatrices
-https://raw.githubusercontent.com/DanielGuachamin/MultiplicacionDeMatrices/master/uploads/Ejecucion_MultiplicadorMatrices_GuachaminDaniel.PNG
+https://raw.githubusercontent.com/DanielGuachamin/MultiplicacionDeMatrices/master/Ejecucion_MultiplicadorMatrices_GuachaminDaniel.PNG
